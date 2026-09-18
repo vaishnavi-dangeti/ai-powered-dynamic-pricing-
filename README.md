@@ -44,42 +44,47 @@ Sales + Competitor + Inventory Data
                 ↓
          Revenue Analysis
 
-📊 Simulated Results
-Metric
-Result
-Revenue Improvement
-+28%
-Margin Improvement
-+12%
-Demand Prediction Accuracy
-87%
-R² Score
-0.78
-Mean Absolute Error
-2.3 units
-🧠 Key Insights
-The analysis identifies demand as the strongest pricing signal, followed by inventory pressure, competitor pricing, historical price elasticity, seasonality, and product popularity. �
-README.pdf
-🛠️ Tech Stack
-Python • SQL • Pandas • NumPy • Scikit-learn • Random Forest • Statistics • Power BI / Tableau
-📁 Project Structure
-ai-powered-dynamic-pricing/
-│
-├── README.md
-├── SETUP.md
-├── requirements.txt
-├── 01_data_exploration.sql
-├── 02_pricing_model.py
-│
-├── data/
-├── results/
-└── dashboard/
-📈 Example
-For a simulated wireless-headphones scenario, the model evaluates multiple prices and identifies $52.99 as the revenue-maximizing option among the tested prices. �
-README.pdf
+## 🎯 What It Does
 
+*Data → Demand Prediction → Price Optimization → Business Recommendation*
 
+- Analyzes historical sales and market signals
+- Estimates demand across price points
+- Considers competitor pricing and inventory pressure
+- Identifies pricing opportunities
+- Recommends product-level prices to improve expected revenue
 
+## 🧠 Tech Stack
+
+*Python* • *SQL* • *Pandas* • *NumPy* • *Scikit-learn*  
+*Random Forest* • *Statistics* • *Power BI / Tableau*
+
+## 📊 Simulated Results
+
+| Metric | Result |
+|---|---:|
+| Revenue improvement | *+28%* |
+| Margin improvement | *+12%* |
+| Demand prediction accuracy | *87%* |
+| R² Score | *0.78* |
+| Mean Absolute Error | *2.3 units* |
+
+## 🔄 Pipeline
+
+```text
+Sales + Competitor + Inventory Data
+                ↓
+        Data Exploration
+                ↓
+       Feature Engineering
+                ↓
+        Demand Prediction
+                ↓
+        Price Optimization
+                ↓
+     Recommended Price
+                ↓
+       Revenue Analysis
 
   
 
