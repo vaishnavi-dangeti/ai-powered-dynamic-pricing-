@@ -26,7 +26,7 @@ The system combines historical sales, competitor pricing, inventory, and seasona
 - 🤖 Demand prediction using Random Forest
 - 💰 Multi-price-point revenue optimization
 - 🎯 Product-level pricing recommendations
-
+- 
 ## 🔄 Pipeline
 
 ```text
@@ -41,11 +41,15 @@ Sales + Competitor + Inventory Data
          Price Optimization
                 ↓
         Recommended Price
+                ↓
+         Revenue Analysis
+
+
   
 
 
-                ↓
-         Revenue Analysis
+               
+      
 
      
 
