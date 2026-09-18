@@ -125,7 +125,7 @@ SELECT
         WHEN AVG(s.unit_price) < AVG(s.competitor_price)
             THEN 'Competitive Price'
         ELSE 'Similar Price'
-    END AS pricing_status
+    END AS pricing_status 
 
 FROM sales s
 JOIN products p
