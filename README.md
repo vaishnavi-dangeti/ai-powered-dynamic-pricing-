@@ -43,8 +43,6 @@ Sales + Competitor + Inventory Data
      Recommended Price
                 ↓
         Revenue Analysis
-↓
-        Revenue Analysis
 
 ## 🎓 Skills Demonstrated
 
