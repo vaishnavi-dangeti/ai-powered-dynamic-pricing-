@@ -48,7 +48,7 @@ Sales + Competitor + Inventory + Promotion Data
              Revenue Analysis
                     ↓
            Business Recommendation
-Business Recommendation
+
 ```
 
 ## 🛠️ Tech Stack
