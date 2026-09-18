@@ -49,6 +49,10 @@ Sales + Competitor + Inventory + Promotion Data
                     ↓
            Business Recommendation
 
+## 🛠️ Tech Stack
+
+**Python** • **SQL** • **Excel** • **Pandas** • **Scikit-learn** • **Power BI** • **GitHub**
+
   
 
 
