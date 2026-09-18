@@ -53,6 +53,16 @@ Sales + Competitor + Inventory + Promotion Data
 
 **Python** • **SQL** • **Excel** • **Pandas** • **Scikit-learn** • **Power BI** • **GitHub**
 
+## 📊 Simulated Results
+
+| Metric | Result |
+|---|---:|
+| Revenue Improvement | **+8.6%** |
+| Average Margin Improvement | **+6.3%** |
+| Demand Model R² | **0.82** |
+| Demand Prediction MAE | **2.4 units** |
+| Products Evaluated | **50** |
+| Pricing Scenarios Evaluated | **500+** |
   
 
 
