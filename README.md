@@ -52,7 +52,6 @@ Sales + Competitor + Inventory + Promotion Data
 ## 🛠️ Tech Stack
 
 **Python** • **SQL** • **Excel** • **Pandas** • **Scikit-learn** • **Power BI** • **GitHub**
-
 ## 📊 Simulated Results
 
 | Metric | Result |
@@ -63,7 +62,8 @@ Sales + Competitor + Inventory + Promotion Data
 | Demand Prediction MAE | **2.4 units** |
 | Products Evaluated | **50** |
 | Pricing Scenarios Evaluated | **500+** |
-  
+
+
 
 
                
