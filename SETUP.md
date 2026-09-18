@@ -1,6 +1,6 @@
-# Setup Guide# ⚙️ Setup Guide
+# ⚙️ Setup Guide
 
-Follow these steps to run the Dynamic Pricing & Revenue Optimization Engine locally.
+Follow these steps to run the AI-Powered Dynamic Pricing & Revenue Optimization Engine locally.
 
 ---
 
