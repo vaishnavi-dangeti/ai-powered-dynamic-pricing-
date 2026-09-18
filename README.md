@@ -65,6 +65,26 @@ Sales + Competitor + Inventory + Promotion Data
 | Demand Prediction MAE | **2.4 units** |
 | Products Evaluated | **50** |
 | Pricing Scenarios Evaluated | **500+** |
+## 🔍 Example AI Recommendation
+
+### Product: Wireless Headphones
+
+| Pricing Factor | Current | AI Recommendation |
+|---|---:|---:|
+| Selling Price | ₹2,499 | **₹2,349** |
+| Competitor Average | ₹2,399 | **₹2,399** |
+| Inventory Level | 1,850 units | **High** |
+| Predicted Demand | 2,100 units | **2,280 units** |
+| Expected Revenue | ₹52.48L | **₹53.56L** |
+| Revenue Impact | — | **+2.1%** |
+
+### 🧠 AI Decision
+
+**Recommended Price: ₹2,349**
+
+The pricing engine identifies **high inventory pressure and meaningful price sensitivity**. It recommends a controlled price reduction to stimulate demand while remaining competitive and improving expected revenue.
+
+> **Decision:** Reduce price by **6.0%** → Expected demand increases → Inventory pressure decreases → Expected revenue improves.
 
 
 
